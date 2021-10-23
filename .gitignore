@@ -1,6 +1,7 @@
 *.aux
 *.toc
 report.txt
-.rar
-.dat
-.gz
+*.rar
+*.dat
+*.gz
+*.log
